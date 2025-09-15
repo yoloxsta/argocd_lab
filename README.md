@@ -1,0 +1,1 @@
+- https://medium.com/@vikwaso/gitops-ci-cd-pipeline-with-github-actions-argocd-56628a133bc2
